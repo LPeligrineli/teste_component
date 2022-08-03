@@ -1,0 +1,16 @@
+.btn {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    &.primary {
+        background-color: #FAAF40;
+        color: #292929;
+        font-size: 14px;
+    }
+    &.secondary {
+        background-color: #005B98;
+        color: #fff;
+        font-size: 14px;
+    }
+}
